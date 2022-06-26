@@ -1,3 +1,6 @@
 First string
 The second one
 I create a new string in the giHub
+
+I work with git gui
+This lines help me with this
